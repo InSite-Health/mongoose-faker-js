@@ -34,7 +34,7 @@
     "mongoose",
     "mongoose-plugin",
     "fake",
-    "faker",
+    "@faker-js/faker",
     "factory",
     "fixtures",
     "seeds"
@@ -100,7 +100,7 @@
     "@lykmapipo/env": ">=0.17.39",
     "@lykmapipo/mongoose-common": ">=0.40.0",
     "async": ">=3.2.4",
-    "faker": ">=5.5.3",
+    "@faker-js/faker": ">=5.5.3",
     "lodash": ">=4.17.21",
     "mongoose": ">=6.5.0"
   },
